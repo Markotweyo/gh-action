@@ -24,4 +24,4 @@ jobs:
             - name: Echo a string
               run: Write-Output "This is a dependent job and writes string as Windows String"
             - name: Error Step
-              run: doesnotexists
+              run: doesnotexistss
